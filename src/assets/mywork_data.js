@@ -26,7 +26,7 @@ const mywork_data = [
 {
     w_no:4,
     w_name:"Web design",
-    w_link:"https://github.com/Yeseniax2/Code-Quiz.git",
+    w_link:"https://yeseniax2.github.io/Code-Quiz/",
     w_img:project4_img
 },
 ]
