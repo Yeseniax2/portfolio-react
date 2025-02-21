@@ -14,7 +14,7 @@
     font-weight: 600;
 }
 .hero h1 span{
-    background: linear-gradient(270deg, #2561da 50%, #b923e1 50% );
+    background: linear-gradient(200deg, #2561da 50%, #b923e1 50% );
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -45,6 +45,7 @@
     border: 2px solid #fff;
     cursor: pointer;
 }
+
 .hero-connect:hover{
     border: 2px solid white;
 }

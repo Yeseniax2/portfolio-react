@@ -78,4 +78,7 @@
         flex-direction: row;
         gap: 20px;
     }
+    li:hover{
+        background-color: #b923e1;
+    }
 }

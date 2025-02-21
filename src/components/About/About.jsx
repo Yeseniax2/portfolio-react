@@ -14,8 +14,8 @@ const About = () => {
                 </div>
             <div className="about-right">
                 <div className="about-para">
-                    <p> I am a coding ethusiast and a entry level devloper with a passion for learning and problem-solving. On my free time I Enjoy creating projects that challenge me and help me grow.</p>
-                    <p>My goal at the end is to gain hands-on experience and contribute to projects where I can apply my skills and continue learning. I am excited to explore opprotunities in web development.
+                    <p> I am a coding ethusiast and a Entry-level developer with a passion for learning and problem-solving. On my free time I Enjoy creating projects that challenge me and help me grow.</p>
+                    <p>My goal at the end is to gain hands-on experience and contribute to projects where I can apply my skills and continue learning. I am excited to explore opportunities in web development.
                     </p>
                 </div> 
                 <div className="about-skills">
@@ -33,7 +33,7 @@ const About = () => {
                </div>
                <hr />
                <div className="about-achievement">
-               <h1>10</h1>
+               <h1>5</h1>
                <p>Projects Completed</p>
                </div>
             </div>

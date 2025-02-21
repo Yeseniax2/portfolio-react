@@ -8,6 +8,8 @@
 }
 .about-title{
     position: relative;
+    background: linear-gradient(264deg, #2561da -5.09%, #b923e1);
+
 }
 .about-title h1{
     padding: 0px 500px;
